@@ -4,5 +4,5 @@
 ### 2 - Criando tabelas:
     * PRIMARY KEY
     * AUTO_INCREMENT
-
+    * FOREIGN KEY
 
