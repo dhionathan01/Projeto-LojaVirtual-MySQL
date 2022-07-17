@@ -10,7 +10,7 @@ CREATE TABLE tb_produtos(
     valor_produto FLOAT(8,2) NOT NULL
 );
 
-CREATE TABLE tb_descricoes_tenicas(
+CREATE TABLE tb_descricoes_tecnicas(
 	id_descricao INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
     fk_id_produto INT NOT NULL,
     descricao_tecnica TEXT NOT NULL,
